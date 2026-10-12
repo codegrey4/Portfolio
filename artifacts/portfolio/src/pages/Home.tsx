@@ -288,7 +288,7 @@ export default function Home() {
                 {"<About_Me />"}
               </h2>
               <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-                I'm Khadija, a high school graduate with a relentless drive for
+                I'm Khadija, a BSc-IT student with a relentless drive for
                 technology and competition. Whether I'm debugging logic, designing interactive
                 experiences, or running plays on the basketball court, I play to win.
               </p>
