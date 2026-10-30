@@ -478,7 +478,7 @@ export default function Home() {
                 </div>
                 <span className="text-xs font-mono text-muted-foreground border border-border px-3 py-1 rounded flex items-center gap-2">
                   <a
-                    href="https://github.com/greysuit-ai/RevZone"
+                    href="https://github.com/codegrey4/RevZone"
                     target="_blank"
                     rel="noopener noreferrer"
                     data-testid="link-project-revzone-github"
@@ -567,7 +567,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-center gap-2 flex-wrap">
                   <a
-                    href="https://github.com/greysuit-ai/JobApplicationForm"
+                    href="https://github.com/codegrey4/JobApplicationForm"
                     target="_blank"
                     rel="noopener noreferrer"
                     data-testid="link-project-jobform-github"
