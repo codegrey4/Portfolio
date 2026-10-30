@@ -765,7 +765,7 @@ export default function Home() {
                 LinkedIn
               </a>
               <a
-                href="https://github.com/greysuit-ai"
+                href="https://github.com/codegrey4"
                 target="_blank"
                 rel="noopener noreferrer"
                 data-testid="link-contact-github"
