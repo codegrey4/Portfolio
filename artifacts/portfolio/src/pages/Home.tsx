@@ -302,7 +302,7 @@ export default function Home() {
                 {[
                   { label: "Typing Speed", value: "45 WPM", icon: <Activity /> },
                   { label: "Accuracy", value: "97%", icon: <Target /> },
-                  { label: "Current Level", value: "Lvl 17", icon: <Zap /> },
+                  { label: "Current Level", value: "Lvl 18", icon: <Zap /> },
                   { label: "Class", value: "Dev/Athlete", icon: <Crosshair /> },
                 ].map((stat, i) => (
                   <motion.div
@@ -578,7 +578,7 @@ export default function Home() {
                     <ExternalLink className="w-3 h-3 opacity-50" />
                   </a>
                   <a
-                    href="https://greysuit-ai.github.io/JobApplicationForm/"
+                    href="https://codegrey4.github.io/JobApplicationForm/"
                     target="_blank"
                     rel="noopener noreferrer"
                     data-testid="link-project-jobform-demo"
@@ -611,7 +611,7 @@ export default function Home() {
                   {[
                     "Game Development Architecture",
                     "Artificial Intelligence & ML",
-                    "Full-Stack Software Engineering",
+                    "Full-Stack Software Development",
                   ].map((item, i) => (
                     <motion.li
                       key={i}
